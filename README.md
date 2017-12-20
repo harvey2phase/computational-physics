@@ -2,6 +2,8 @@
 
 This is an ongoing project for me to investigate the field of computational and theoretical physics, including topics such as numerical programming and quantum computing.
 
+Some of these projects are based on assignments from the Computer Simulation in Science course at Dalhousie University, which I took in Fall 2017.
+
 ## Motivation
 
 My hope is gain a deeper understanding and bridge my knowledge gap between computer science and physics, my two areas of study in university.
@@ -22,8 +24,6 @@ My goals include, but are not limited to, the investigation of the following top
 * Quantum computing
     * Numerical solution of Schroedinger equation
 
-Some of the projects here are based on assignments from the Computer Simulation in Science course at Dalhousie University, which I took in Fall 2017.
-
 ## Installing
 
 To install, simply download the project as a zip file or clone the repository using the following Bash command:
@@ -38,8 +38,8 @@ Harvey Wang
 
 ## Feedback
 
-Feel free to make pull requests or provide feedback to my [email](harvey@dal.ca). Thanks :)
+I'm always looking for ideas for new projects! Please [email](harvey@dal.ca) me if you have an idea you want me to test out, or if you want to collaborate! I always love networking with new people. Also feel free to make pull requests. 😃
 
 ## Acknowledgements
 
-Big thanks to **Dr. Andrew Rutenberg**, who taught the Computer Simulation in Science course at Dalhousie University in Fall 2017 and inspired me to take the class material further. Please visit his website [here](http://fizz.phys.dal.ca/~adr/).
+Big thanks to **Dr. Andrew Rutenberg**, who teaches the Computer Simulation in Science course at Dalhousie University. He inspired me to take the class material further. Please visit his website [here](http://fizz.phys.dal.ca/~adr/).
