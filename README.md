@@ -23,6 +23,7 @@ My goals include, but are not limited to, the investigation of the following top
     * Pascal
 * Quantum computing
     * Numerical solution of the Schrödinger equation
+    * Simulation of wavepackets
 
 ## Installing
 
