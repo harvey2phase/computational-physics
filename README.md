@@ -36,10 +36,10 @@ git clone https://github.com/harveytwoface/CompPhysics.git
 
 Harvey Wang
 
-## Feeback
+## Feedback
 
 Feel free to make pull requests or provide feedback to my [email](harvey@dal.ca). Thanks :)
 
-## Acknowledgments
+## Acknowledgements
 
 Big thanks to **Dr. Andrew Rutenberg**, who taught the Computer Simulation in Science course at Dalhousie University in Fall 2017 and inspired me to take the class material further. Please visit his website [here](http://fizz.phys.dal.ca/~adr/).
