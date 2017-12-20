@@ -2,11 +2,11 @@
 
 This is an ongoing project for me to investigate the field of computational and theoretical physics, including topics such as numerical programming and quantum computing.
 
-Some of these projects are based on assignments from the Computer Simulation in Science course at Dalhousie University, which I took in Fall 2017.
+My hope is gain a deeper understanding and bridge the knowledge gap between my two areas of study in university, computer science and physics.
 
-## Motivation
+Some of these projects are based on assignments from the Computer Simulation in Science course (Fall 2017) at Dalhousie University.
 
-My hope is gain a deeper understanding and bridge my knowledge gap between computer science and physics, my two areas of study in university.
+
 
 ## Goals
 
@@ -16,7 +16,7 @@ My goals include, but are not limited to, the investigation of the following top
     * System of linear Equation
     * Ordinary Differential Equations
     * Partial Differential Equations
-* Comparison of different Programming languages
+* Comparison between different Programming languages in the context of physics and numerical programming
     * Python
     * C
     * C++
