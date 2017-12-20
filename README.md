@@ -22,7 +22,7 @@ My goals include, but are not limited to, the investigation of the following top
     * C++
     * Pascal
 * Quantum computing
-    * Numerical solution of Schroedinger equation
+    * Numerical solution of the Schrödinger equation
 
 ## Installing
 
