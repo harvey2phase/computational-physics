@@ -35,10 +35,13 @@ git clone https://github.com/harveytwoface/CompPhysics.git
 ## Author
 
 Harvey Wang
+Email: harvey@dal.ca
+B.Sc. Student in Computer Science and Physics
+Faculty of Computer Science, Dalhousie University, NS, Canada
 
 ## Feedback
 
-I'm always looking for ideas for new projects! Please [email](harvey@dal.ca) me if you have an idea you want me to test out, or if you want to collaborate! I always love networking with new people. Also feel free to make pull requests. 😃
+I'm always looking for ideas for new projects! Please email me if you have an idea you want me to test out, or if you want to collaborate! I always love networking with new people. Also feel free to make pull requests. 😃
 
 ## Acknowledgements
 
