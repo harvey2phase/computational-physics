@@ -25,7 +25,7 @@ My goals include, but are not limited to, the investigation of the following top
     * Numerical solution of the Schrödinger equation
     * Simulation of wavepackets
 
-## Installing
+## Installing and Testing
 
 To install, simply download the project as a zip file or clone the repository using the following Bash command:
 
