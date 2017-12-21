@@ -2,7 +2,7 @@
 
 This is an ongoing project for me to investigate the field of computational and theoretical physics, including topics such as numerical programming and quantum computing.
 
-My hope is gain a deeper understanding and bridge the knowledge gap between my two areas of study in university, computer science and physics.
+My hope experiment and bridge the knowledge gap between my two areas of study in university, computer science and physics.
 
 Some of these projects are based on assignments from the Computer Simulation in Science course (Fall 2017) at Dalhousie University.
 
