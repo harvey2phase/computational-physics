@@ -30,7 +30,7 @@ My goals include, but are not limited to, the investigation of the following top
 To install, simply download the project as a zip file or clone the repository using the following Bash command:
 
 ```
-git clone https://github.com/harveytwoface/CompPhysics.git
+$ git clone https://github.com/harveytwoface/CompPhysics.git
 ```
 
 ## Author
