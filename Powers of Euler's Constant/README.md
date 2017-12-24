@@ -2,9 +2,13 @@
 
 ### Purpose
 
-This project evaluates the value of e to the power of x (often denoted as `exp(x)` in many math libraries, including that of Python) using the infinite power series:
+This project evaluates the value of e to the power of x (often denoted as `exp(x)` in many math libraries, including that of Python) using the infinite power series
 
-\sum
+\begin{equation}
+1/n!
+\end{equation}
+
+$ \sum_{\forall i}{x_i^{2}} $
 
 ### Details
 
