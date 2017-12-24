@@ -4,7 +4,7 @@
 
 This project evaluates the value of e to the power of x (often denoted as `exp(x)` in many math libraries, including that of Python) using the infinite power series
 
-&sum;<sub>i=0</sub><sup>n</sup>&frac1{n!};
+&sum;<sub>i=0</sub><sup>n</sup><sup>1</sup>&frasl;<sub>n!</sub>
 
 ### Details
 
