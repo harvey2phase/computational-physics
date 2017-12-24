@@ -4,7 +4,7 @@
 
 This project evaluates the value of e to the power of x (often denoted as `exp(x)` in many math libraries, including that of Python) using the infinite power series:
 
-<img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " />
+- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
 
 ### Details
 
