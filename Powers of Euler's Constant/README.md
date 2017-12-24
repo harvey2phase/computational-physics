@@ -6,6 +6,8 @@ This project evaluates the value of e to the power of x (often denoted as `exp(x
 
 e = &sum; <sup>1</sup>&frasl;<sub>n!</sub>
 
+$$\sum
+
 ### Details
 
 
