@@ -6,12 +6,11 @@ I hope to experiment and bridge the knowledge gap between my two areas of study 
 
 Some of these projects are based on assignments from the Computer Simulation in Science course (Fall 2017) at Dalhousie University.
 
-
-
 ## Goals
 
 My goals include, but are not limited to, the investigation of the following topics:
 * Methods and algorithms in numerical programming
+    * Dynamic Programming
     * Differentiation and integration
     * System of linear Equation
     * Ordinary Differential Equations
