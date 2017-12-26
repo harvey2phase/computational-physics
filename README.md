@@ -12,7 +12,7 @@ My goals include, but are not limited to, the investigation of the following top
 * Methods and algorithms in numerical programming
     * Dynamic Programming
     * Differentiation and integration
-    * System of linear Equation
+    * System of linear equation
     * Ordinary Differential Equations
     * Partial Differential Equations
 * Comparison between different Programming languages in the context of physics and numerical programming
