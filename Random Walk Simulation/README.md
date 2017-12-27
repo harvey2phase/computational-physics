@@ -6,11 +6,11 @@ This Project simulates a random walk in 2 dimensional space.
 
 ### Sample Outputs
 
-![alt text](https://github.com/harveytwoface/CompPhysics/tree/master/Random%20Walk%20Simulation/Sample%20Outputs/Sim.png)
+![alt text](https://github.com/harveytwoface/CompPhysics/blob/master/Random%20Walk%20Simulation/Sample%20Outputs/Sim.png)
 
-![alt text](https://github.com/harveytwoface/CompPhysics/tree/master/Random%20Walk%20Simulation/Sample%20Outputs/RMS_vs._Time.png)
+![alt text](https://github.com/harveytwoface/CompPhysics/blob/master/Random%20Walk%20Simulation/Sample%20Outputs/RMS_vs._Time.png)
 
-![alt text](https://github.com/harveytwoface/CompPhysics/tree/master/Random%20Walk%20Simulation/Sample%20Outputs/Ratio_vs._Time.png)
+![alt text](https://github.com/harveytwoface/CompPhysics/blob/master/Random%20Walk%20Simulation/Sample%20Outputs/Ratio_vs._Time.png)
 
 ### Details
 
