@@ -1,3 +1,7 @@
+# EXP
+# by Harvey Wang
+# Created September 2017
+
 # recursive function to find the factorial of x
 def fact(x):
     if x == 1:

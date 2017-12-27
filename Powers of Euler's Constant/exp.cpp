@@ -1,3 +1,7 @@
+// EXP
+// by Harvey Wang
+// Created December 2017
+
 #include<iostream>
 #include<cmath>
 

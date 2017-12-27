@@ -1,3 +1,7 @@
+# SQUARE ROOT
+# by Harvey Wang
+# Created September 2017
+
 import math as m
 
 # a recursive function to find the square root of x
