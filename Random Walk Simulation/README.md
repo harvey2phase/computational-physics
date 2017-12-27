@@ -30,4 +30,4 @@ There are several objects in the visual simulation, each representing a differen
 
 Download the project and run `random_walk.py`.
 
-The default value for `iterations` is 1,000, which represents the number of random steps taken. Changing this variable will change the number of steps taken. One can also can the `for` loop on line 41 to `while true`, running the simulation indefinitely.
+The default value for `n` and `iterations` is 1000, which represent the number of particles and random steps taken, respectively. One can modify these to observe different behaviours, or change the `for` loop on line 41 to `while true`, running the simulation indefinitely.
