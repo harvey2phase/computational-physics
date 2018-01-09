@@ -1,6 +1,6 @@
 # Projects in Computational Physics
 
-This is an ongoing project for me to investigate the field of computational and theoretical physics, including topics such as numerical programming and quantum computing.
+This is project for me to investigate some topics in computational and theoretical physics, including numerical programming and quantum computing.
 
 I hope to experiment and bridge the knowledge gap between my two areas of study in university, computer science and physics.
 
@@ -8,7 +8,7 @@ Some of these projects are based on assignments from the Computer Simulation in 
 
 ## Goals
 
-My goals include, but are not limited to, the investigation of the following topics:
+My goals include the investigation of the following topics:
 * Methods and algorithms in numerical programming
     * Dynamic Programming
     * Differentiation and integration
