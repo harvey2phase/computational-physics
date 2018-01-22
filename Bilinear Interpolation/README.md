@@ -12,7 +12,9 @@ This project visualizes the bilinear interpolation of four corner values.
 
 This project contains a single file `bilinear_int.py`, which does the following things:
 
-* 
+* Perform bilinear interpolation with four corner values and visualize using matplotlib's imshow
+
+* Plot the zero line(s) by finding points that are "close enough" to zero and scatter plotting them (this feature does not look perfect, but is sufficient for our purposes)
 
 ### Testing
 
