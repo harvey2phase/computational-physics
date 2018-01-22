@@ -24,6 +24,16 @@ My goals include the investigation of the following topics:
     * Numerical solution of the Schrödinger equation
     * Simulation of wavepackets
 
+## Sample Outputs
+
+![alt text](https://github.com/harveytwoface/CompPhysics/blob/master/Random%20Walk%20Simulation/Sample%20Outputs/Sim.png)
+(Random Walk Simulation)
+
+![alt text](https://github.com/harvey2phase/CompPhysics/blob/master/Bilinear%20Interpolation/Sample%20Output.png)
+(Bilinear Interpolation)
+
+
+
 ## Installing and Testing
 
 To install, simply download the project as a zip file or clone the repository using the following Bash command:
