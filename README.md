@@ -27,10 +27,16 @@ My goals include the investigation of the following topics:
 ## Sample Outputs
 
 Random Walk Simulation:
+
 ![alt text](https://github.com/harveytwoface/CompPhysics/blob/master/Random%20Walk%20Simulation/Sample%20Outputs/Sim.png)
 
 Bilinear Interpolation:
+
 ![alt text](https://github.com/harvey2phase/CompPhysics/blob/master/Bilinear%20Interpolation/Sample%20Output.png)
+
+Feigenbaum Plot
+
+![alt text](https://github.com/harvey2phase/CompPhysics/blob/master/Feigenbaum%20Plot/Sample%20Output.png)
 
 Lotka-Volterra Simulation:
 
