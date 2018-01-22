@@ -6,7 +6,7 @@ This project visualizes the bilinear interpolation of four corner values.
 
 ### Sample Output
 
-![alt text](https://github.com/harveytwoface/CompPhysics/blob/master/Random%20Walk%20Simulation/Sample%20Outputs/Sim.png)
+![alt text](https://github.com/harvey2phase/CompPhysics/blob/master/Bilinear%20Interpolation/Sample%20Output.png)
 
 ### Details
 
