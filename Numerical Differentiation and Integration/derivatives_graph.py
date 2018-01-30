@@ -1,8 +1,6 @@
-# Name: Harvey Wang
-# B00:  B00726196
-# Date: Oct. 18, 2017
-
-# Assignment 3 -- This program defines a function, estimate the derivative of the function with various values of delta, and plots the result
+# This program defines a function,
+# estimate the derivative of the function with various values of delta,
+# and plots the result
 
 import matplotlib.pyplot as plt
 

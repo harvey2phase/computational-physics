@@ -1,7 +1,0 @@
-## UNDOCUMENTED
-
-### Overview
-
-### Details
-
-### Testing

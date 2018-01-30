@@ -1,8 +1,9 @@
-# Name: Harvey Wang
-# B00:  B00726196
-# Date: Oct. 18, 2017
-
-# Assignment 3 -- This program defines a function, estimates the integral of the function with various values of N using Riemann sum, then estimates the integral using Monte Carlo method, and plots the result
+# This program:
+# 1. Defines a function
+# 2. Estimates the integral with various values of N
+#  2.1 Using Riemann sum
+#  2.2 Using Monte Carlo Integration method
+# 3. Plots the result
 
 import math as m
 import time as t
