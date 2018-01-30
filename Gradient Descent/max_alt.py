@@ -4,14 +4,14 @@ import matplotlib.pyplot as plt
 
 # Returns True if (x, y) is within bounds
 def inBounds(x, y):
-    if x > height-1 or x < 0 or y > width-1 or y < 0:
+    if x > 511 or x < 0 or y > 1023 or y < 0:
         return False
     return True
 
 # Returns True if (x, y) is a local max
-def localMin(x, y):
+def localMax(x, y):
     for i in values:
-        if stms[x, y] > values[i]:
+        if alts[x, y] < values[i]:
             return False
     return True
 
@@ -41,31 +41,33 @@ def adjacentCoors(x, y):
 def adjacentValues(x, y):
     s = adjacentCoors(x, y)
     for key in s:
-        s[key] = stms[s[key]]
+        s[key] = alts[s[key]]
+
     return s
 
-# Returns (x, y) of the step to take (A greedy algorithm to find the next step to take)
-def minStep(x, y):
-    step = min(values, key=values.get)
+# Returns (x, y) of the step to take
+# (A greedy algorithm to find the next step to take)
+def maxStep(x, y):
+    step = max(values, key=values.get)
     return adjacentCoors(x, y)[step]
 
-stms = np.loadtxt('stm.txt')
-width, height = len(stms[0]), len(stms)
+alts = np.loadtxt('altitude.txt')
+width, height = len(alts[0]), len(alts)
 X, Y = [], []
-N = 10 * 4
+N = 10 ** 4
 for i in range(N):
     x, y = ran.randint(0, height-1), ran.randint(0, width-1)
     values = adjacentValues(x, y)
 
-    while not localMin(x, y):
-        x, y = minStep(x, y)
+    while not localMax(x, y):
+        x, y = maxStep(x, y)
         values = adjacentValues(x, y)
 
     X.append(x)
     Y.append(y)
 
-plt.imshow(stms)
-plt.scatter(Y, X, c='r', s=1)
-plt.axis('off')
-plt.title('Minimums with 10,000 random points')
+plt.gray()
+plt.imshow(alts)
+plt.scatter(Y, X, c='g', s=1)
+plt.title('Local Maximums on World Map with 10,000 Random Points')
 plt.show()
